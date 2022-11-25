@@ -1,3 +1,3 @@
 # kanji-stories
 
-Backup of my stories that i published on https://kanji.koohii.com
+Backup of the stories that i published on https://kanji.koohii.com
